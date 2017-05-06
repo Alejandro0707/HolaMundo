@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HolaMundo</string>
     <string name="Titulo">CALCULADORA</string>
+    <string name="numero_uno">Numero Uno</string>
+    <string name="numero_dos">Numero dos</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="borrar">BORRAR</string>
 </resources>
